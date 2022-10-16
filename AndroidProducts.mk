@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_m12.mk
+    $(LOCAL_DIR)/crDroid_m12.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_m12-eng \
-    lineage_m12-user \
-    lineage_m12-userdebug
+    crdroid_m12-eng \
+    crdroid_m12-user \
+    crdroid_m12-userdebug
