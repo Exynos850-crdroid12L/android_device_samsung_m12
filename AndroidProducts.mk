@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/crDroid_m12.mk
+    $(LOCAL_DIR)/crdroid_m12.mk
 
 COMMON_LUNCH_CHOICES := \
     crdroid_m12-eng \
